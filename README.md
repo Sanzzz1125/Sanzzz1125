@@ -40,7 +40,25 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - `npm run start` – Serves the production build.
 - `npx tsc --noEmit` – Runs TypeScript type checking.
 
-## Project Structure
-- `public/assets/` – Static images and product demo videos (`.mp4`).
-- `src/app/` – Next.js App Router pages and global CSS design tokens.
-- `src/components/` – Reusable UI components (`Navbar`, `Footer`, `ClientScripts`).
+## Architecture & File Structure
+
+```text
+alassa-nextjs/
+├── public/assets/               # Static assets (MP4 demo videos, brand logos)
+└── src/
+    ├── app/                     # Next.js 15 App Router
+    │   ├── layout.tsx           # Root wrapper (injects Navbar, Footer, & DOM scripts)
+    │   ├── page.tsx             # Main Landing Page (/)
+    │   ├── contact/page.tsx     # Contact Page + Web3Forms form submission (/contact)
+    │   ├── products/page.tsx    # Products Suite (/products)
+    │   ├── use-cases/page.tsx   # Industry Solutions (/use-cases)
+    │   ├── product-video/       # Video Presentation Gallery (/product-video)
+    │   ├── privacy/ & terms/    # Legal Compliance Pages (/privacy, /terms)
+    │   └── assets/css/
+    │       ├── index_core.css   # Core CSS design tokens (:root variables) & utilities
+    │       └── shared.css       # Global navigation & footer layout styling
+    └── components/              # Modular UI Components
+        ├── Navbar.tsx           # Global header with multi-tier dropdowns & mobile drawer
+        ├── Footer.tsx           # 4-column footer with contact links & WhatsApp CTA
+        └── ClientScripts.tsx    # Client-side observers (scroll reveal, navbar glass state)
+```
