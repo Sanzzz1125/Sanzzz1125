@@ -1,21 +1,15 @@
-![Sanketh Thatikonda — Frontend and full-stack developer](assets/flight-deck.svg)
+<a href="https://sanketh.live/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/cover.png"><img src="./assets/cover.gif" width="100%" alt="After Hours — Sanketh Thatikonda, frontend and full-stack engineer. An amber cassette with spinning reels."></picture></a>
 
-[Portfolio](https://sanketh.live/) · [All repositories](https://github.com/Sanzzz1125?tab=repositories)
+<a href="https://github.com/Sanzzz1125#contribution-activity"><img src="./assets/activity.svg" width="100%" alt="GitHub contributions this year and activity over the latest 26 weeks"></a>
 
-I build web apps and developer tools. My projects span full-stack learning, campus tools, nutrition and macOS.
+### Track list
 
-### Selected projects
+<p><a href="https://github.com/Sanzzz1125/fullStackCompass"><img src="./assets/p1.png" width="49%" alt="fullStackCompass — Learning roadmap"></a> <a href="https://github.com/Sanzzz1125/CodeSync"><img src="./assets/p2.png" width="49%" alt="CodeSync — Developer tools"></a></p>
 
-| Project | Explore |
-| --- | --- |
-| **fullStackCompass** · A guide to learning full-stack development | [Live site](https://www.fullstackcompass.in/) · [Code](https://github.com/Sanzzz1125/fullStackCompass) |
-| **Campus Hub** · A hub for campus resources | [Live site](https://sanzzz1125.github.io/campus-hub/) · [Code](https://github.com/Sanzzz1125/campus-hub) |
-| **CodeSync** | [Code](https://github.com/Sanzzz1125/CodeSync) |
-| **Nutrilens** | [Code](https://github.com/Sanzzz1125/Nutrilens) |
-| **Notchly** | [Code](https://github.com/Sanzzz1125/Notchly) |
+<p><a href="https://github.com/Sanzzz1125/campus-hub"><img src="./assets/p3.png" width="49%" alt="Campus Hub — Campus resources"></a> <a href="https://github.com/Sanzzz1125/Nutrilens"><img src="./assets/p4.png" width="49%" alt="Nutrilens — Nutrition"></a></p>
 
-**Languages** · JavaScript · TypeScript · Python · Java · Swift
+<p><a href="https://github.com/Sanzzz1125/Notchly"><img src="./assets/p5.png" width="49%" alt="Notchly — macOS"></a> <a href="https://github.com/Sanzzz1125/Campus-Reporting-System"><img src="./assets/p6.png" width="49%" alt="Campus Reporting — Campus tools"></a></p>
 
-### Contribution flight
+**Languages** · JavaScript · Python · TypeScript · Java · Swift · HTML
 
-[![Animated flight across the contribution calendar and GitHub stats for Sanzzz1125](assets/activity.svg)](https://github.com/Sanzzz1125#contribution-activity)
+[Portfolio](https://sanketh.live/) · [FullStackCompass demo](https://www.fullstackcompass.in/) · [Campus Hub demo](https://sanzzz1125.github.io/campus-hub/) · [All repositories](https://github.com/Sanzzz1125?tab=repositories)
