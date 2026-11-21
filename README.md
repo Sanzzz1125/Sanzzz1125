@@ -1,8 +1,8 @@
-<a href="https://sanketh.live/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/cover.png"><img src="./assets/cover.gif" width="100%" alt="After Hours — Sanketh Thatikonda, frontend and full-stack engineer. An amber cassette with spinning reels."></picture></a>
+<a href="https://sanketh.live/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/cover.png"><img src="./assets/cover.gif" width="100%" alt="Source Material — Sanketh Thatikonda, frontend and full-stack engineer. A rotating wireframe trefoil on a printed poster."></picture></a>
 
 <a href="https://github.com/Sanzzz1125#contribution-activity"><img src="./assets/activity.svg" width="100%" alt="GitHub contributions this year and activity over the latest 26 weeks"></a>
 
-### Track list
+### Project index
 
 <p><a href="https://github.com/Sanzzz1125/fullStackCompass"><img src="./assets/p1.png" width="49%" alt="fullStackCompass — Learning roadmap"></a> <a href="https://github.com/Sanzzz1125/CodeSync"><img src="./assets/p2.png" width="49%" alt="CodeSync — Developer tools"></a></p>
 
