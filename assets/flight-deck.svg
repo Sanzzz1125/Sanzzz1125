@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 264" role="img" aria-labelledby="title">
+  <title id="title">Sanketh Thatikonda — Frontend and full-stack developer</title>
+  <defs>
+    <linearGradient id="space" x2="1" y2="1"><stop stop-color="#101722"/><stop offset="1" stop-color="#192d3b"/></linearGradient>
+    <pattern id="stars" width="57" height="47" patternUnits="userSpaceOnUse" patternTransform="rotate(-10)"><circle cx="11" cy="14" r="1" fill="#afdbc8" opacity=".34"/><circle cx="40" cy="39" r=".6" fill="#ffda96" opacity=".6"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="858" height="262" rx="17" fill="url(#space)" stroke="#374c61"/>
+  <path d="M485 2H841Q858 2 858 19V245Q858 262 841 262H485Z" fill="url(#stars)"/>
+  <path d="M504 215C603 238 731 114 826 46" stroke="#709aab" stroke-width="1.4" stroke-dasharray="5 7" fill="none"/>
+  <circle cx="688" cy="119" r="76" fill="#243e4c" stroke="#395d6a"/>
+  <path d="M627 82Q668 74 716 51M616 106Q702 91 741 65M613 122Q704 115 753 79M620 144Q700 135 762 101M629 162Q711 152 764 119M647 180Q717 171 758 146" stroke="#547982" stroke-opacity=".6" fill="none"/>
+  <ellipse cx="688" cy="119" rx="119" ry="20" transform="rotate(-26 688 119)" stroke="#9be4cf" stroke-opacity=".8" fill="none"/>
+  <g transform="translate(766 174) rotate(-33)">
+    <path d="M-19 -5H-58M-24 0H-75M-19 5H-51" stroke="#f0a465" stroke-width="2" stroke-linecap="round"/>
+    <path d="M-17 -12L24 0-17 12-10 0Z" fill="#ffda96"/>
+    <circle cx="1" cy="0" r="4" fill="#235769"/>
+  </g>
+  <g font-family="ui-monospace, monospace">
+    <text x="35" y="53" fill="#a1edd7" font-size="15" letter-spacing="3">@SANZZZ1125</text>
+    <text x="37" y="162" fill="#bfccd9" font-size="21">Frontend &amp; full-stack developer</text>
+  </g>
+  <text x="33" y="119" fill="#f2f6fb" font-family="system-ui,sans-serif" font-weight="700" font-size="44">Sanketh Thatikonda</text>
+  <path d="M37 211H438" stroke="#3c5267"/>
+  <path d="M37 211H105" stroke="#ffda96" stroke-width="2"/>
+</svg>
